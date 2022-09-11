@@ -1,8 +1,12 @@
+import NotificationButton from "./assets/components/notificationButton"
 
 
 function App() {
   return(
+    <>
       <h1> Hello World!</h1>
+      <NotificationButton/>
+    </>
   )
 }
 
